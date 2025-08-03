@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Piyush Yadav</h1>
-<h3 align="center">Aspiring AI & Backend Engineer | Final Year B.Tech Student</h3>
+<h3 align="center">Sr AI & Backend Engineer </h3>
 
 ---
 
