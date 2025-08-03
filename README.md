@@ -34,9 +34,9 @@
 ---
 
 ### 📊 GitHub Stats
-![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=piyushyadav1704&show_icons=true&theme=radical)
+![Piyush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Piyushyadav1704&show_icons=true&theme=radical)
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=piyushyadav1704&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Piyushyadav1704&theme=radical)
 
 
 ---
