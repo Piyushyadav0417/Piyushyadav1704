@@ -19,6 +19,9 @@
 ![OpenAI](https://img.shields.io/badge/-OpenAI-black?style=flat-square)
 ![FastAPI](https://img.shields.io/badge/-FastAPI-teal?style=flat-square)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-blue?style=flat-square&logo=postgresql)
+![AWS](https://img.shields.io/badge/-AWS-orange?style=flat-square&logo=amazonaws)
+![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-square&logo=docker)
+
 
 ---
 
